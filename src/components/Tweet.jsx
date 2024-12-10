@@ -1,8 +1,8 @@
-import ProfileImage from "./ProfileImage";
-import User from "./User";
-import Timestamp from "./Timestamp";
-import Message from "./Message";
-import Actions from "./Actions";
+import ProfileImage from "./ProfileImage.jsx";
+import User from "./User.jsx";
+import Timestamp from "./Timestamp.jsx";
+import Message from "./Message.jsx";
+import Actions from "./Actions.jsx";
 
 
 function Tweet({ tweet }) { //En React, las props se reciben como argumento de la función del componente.
